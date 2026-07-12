@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shivam 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=22&pause=1000&color=2F3C7E&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excle+%7C+Tableau+%7C+Power+BI;Building+real-world+data+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=22&pause=1000&color=2F3C7E&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Building+real-world+data+projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiv21-hub&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shiv21-hub&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
